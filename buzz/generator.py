@@ -1,9 +1,9 @@
 import random
 
-buzz = ('Epam', 'EPAM')
-adjectives = ('The', 'THE')
-adverbs = ('Best', 'BEST')
-verbs = ('Company', 'COMPANY')
+buzz = ('Epam', 'devops')
+adjectives = ('the', 'this')
+adverbs = ('best', 'nice')
+verbs = ('company','job')
 
 def sample(l, n = 1):
     result = random.sample(l, n)
